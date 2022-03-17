@@ -1,6 +1,6 @@
 [Click here to view finished project](https://j-pohl.github.io/passenger_counting_app/)
 
-What I learned during this project:
+What I learned during this project (August 2021):
 - Incrementing and decrementing with Javascript
-- Storing results
+- Storing computed values and displaying them in the UI
 - Styling with background image
